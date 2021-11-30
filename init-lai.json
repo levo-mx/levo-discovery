@@ -1,0 +1,15 @@
+{
+  "operations": {
+    "onboarding.start": "",
+    "device.register": ""
+  },
+  "firebase": {
+    "apiKey": "AIzaSyCXtDa_Yf37yYlbHOFrOwBjy3lNcAumRi0",
+    "authDomain": "levo-ai-7163a.firebaseapp.com",
+    "projectId": "levo-ai-7163a",
+    "storageBucket": "levo-ai-7163a.appspot.com",
+    "messagingSenderId": "582578218273",
+    "appId": "1:582578218273:web:31bb853294606923a5ca60",
+    "measurementId": "G-Y48F7E8885"
+  }
+}
