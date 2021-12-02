@@ -1,0 +1,8 @@
+{
+  "host": "https://app.ai.oikosahorro.com",
+  "basePath": "/",
+  "operations": {
+    "onboarding.start": "",
+    "device.register": ""
+  }
+}
